@@ -32,5 +32,5 @@ Meus principais interesses estão em **programação**, **inteligência artifici
 ---
 
 <p align="center">
-  Aprender com profundidade. Construir com intenção.
+  Um Grande mestre é um eterno aprendiz.
 </p>

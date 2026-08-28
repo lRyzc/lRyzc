@@ -33,23 +33,23 @@ Current Focus
 
 ---
 
-Tech
+### Tech
 
-Working with
+**Working with**
 
-"Python" (https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
-"HTML" (https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-181717?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-Currently learning
+**Currently learning**
 
-"Machine Learning" (https://img.shields.io/badge/Machine_Learning-181717?style=flat-square)
-"Data Analysis" (https://img.shields.io/badge/Data_Analysis-181717?style=flat-square)
-"Deep Learning" (https://img.shields.io/badge/Deep_Learning-181717?style=flat-square)
-"LLMs" (https://img.shields.io/badge/LLMs-181717?style=flat-square)
-"AI Engineering" (https://img.shields.io/badge/AI_Engineering-181717?style=flat-square)
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-181717?style=flat-square)
+![Data_Analysis](https://img.shields.io/badge/Data_Analysis-181717?style=flat-square)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-181717?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-181717?style=flat-square)
+![AI_Engineering](https://img.shields.io/badge/AI_Engineering-181717?style=flat-square)
 
 ---
 

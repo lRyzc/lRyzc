@@ -49,11 +49,11 @@ I believe the best way to learn technology is to build with it. This GitHub docu
 
 **Currently learning**
 
-![Python](https://img.shields.io/badge/Machine_Learning-181717?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Data_Analysis-181717?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Deep_Learning-181717?style=flat-square)
-![SQL](https://img.shields.io/badge/LLMs-181717?style=flat-square)
-![Machine learning Foundations](https://img.shields.io/badge/AI_Engineering-181717?style=flat-square)
+![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-181717?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-181717?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-181717?style=flat-square&logo=postgresql&logoColor=white)
+![Machine Learning Foundations](https://img.shields.io/badge/Machine_Learning_Foundations-181717?style=flat-square)
 
 ---
 

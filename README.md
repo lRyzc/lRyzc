@@ -49,11 +49,11 @@ I believe the best way to learn technology is to build with it. This GitHub docu
 
 **Currently learning**
 
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-181717?style=flat-square)
-![Data_Analysis](https://img.shields.io/badge/Data_Analysis-181717?style=flat-square)
-![Deep_Learning](https://img.shields.io/badge/Deep_Learning-181717?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-181717?style=flat-square)
-![AI_Engineering](https://img.shields.io/badge/AI_Engineering-181717?style=flat-square)
+![Python](https://img.shields.io/badge/Machine_Learning-181717?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Data_Analysis-181717?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Deep_Learning-181717?style=flat-square)
+![SQL](https://img.shields.io/badge/LLMs-181717?style=flat-square)
+![Machine learning Foundations](https://img.shields.io/badge/AI_Engineering-181717?style=flat-square)
 
 ---
 
@@ -63,18 +63,20 @@ I believe the best way to learn technology is to build with it. This GitHub docu
 01  FOUNDATIONS
     Computer Science · Python · Algorithms
     Data Structures · Mathematics · SQL
-                         │
-                         ▼
+    Git · Linux · Software Engineering
+
+                         ↓
 02  MACHINE LEARNING
     Data Analysis · Statistics · NumPy
     Pandas · Scikit-learn · ML Algorithms
-                         │
-                         ▼
+
+                         ↓
 03  DEEP LEARNING
     Neural Networks · PyTorch
     Computer Vision · NLP · Transformers
-                         │
-                         ▼
+
+                         ↓
 04  AI ENGINEERING
     LLMs · RAG · AI Agents
-    APIs · Model Integration · Production AI
+    APIs · Model Integration · Docker
+    Deployment · Production AI
